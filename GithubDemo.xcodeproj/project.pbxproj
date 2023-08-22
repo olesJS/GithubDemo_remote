@@ -11,6 +11,7 @@
 		AF35C0DD2A93FC0800718E9C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF35C0DC2A93FC0800718E9C /* ContentView.swift */; };
 		AF35C0DF2A93FC0900718E9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF35C0DE2A93FC0900718E9C /* Assets.xcassets */; };
 		AF35C0E22A93FC0900718E9C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF35C0E12A93FC0900718E9C /* Preview Assets.xcassets */; };
+		AF627CC72A94C4AA00314657 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF627CC62A94C4AA00314657 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AF35C0DC2A93FC0800718E9C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AF35C0DE2A93FC0900718E9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF35C0E12A93FC0900718E9C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AF627CC62A94C4AA00314657 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				AF35C0DA2A93FC0800718E9C /* GithubDemoApp.swift */,
 				AF35C0DC2A93FC0800718E9C /* ContentView.swift */,
+				AF627CC62A94C4AA00314657 /* SecondView.swift */,
 				AF35C0DE2A93FC0900718E9C /* Assets.xcassets */,
 				AF35C0E02A93FC0900718E9C /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF627CC72A94C4AA00314657 /* SecondView.swift in Sources */,
 				AF35C0DD2A93FC0800718E9C /* ContentView.swift in Sources */,
 				AF35C0DB2A93FC0800718E9C /* GithubDemoApp.swift in Sources */,
 			);
